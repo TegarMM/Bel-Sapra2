@@ -1,0 +1,100 @@
+C:\Users\KELOMPOK 4\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.exe
+C:\Users\KELOMPOK 4\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.pdb
+C:\Users\KELOMPOK 4\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.xml
+C:\Users\KELOMPOK 4\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.Main.resources
+C:\Users\KELOMPOK 4\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.Resources.resources
+C:\Users\KELOMPOK 4\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel Sekolah.vbproj.GenerateResource.Cache
+C:\Users\KELOMPOK 4\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel Sekolah.exe
+C:\Users\KELOMPOK 4\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel Sekolah.xml
+C:\Users\KELOMPOK 4\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel Sekolah.pdb
+C:\Users\KELOMPOK 4\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\bin\Debug\Interop.WMPLib.dll
+C:\Users\KELOMPOK 4\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\KELOMPOK 4\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\KELOMPOK 4\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\KELOMPOK 4\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel Sekolah.vbproj.ResolveComReference.cache
+C:\Users\KELOMPOK 4\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.exe.config
+C:\Users\R4-38\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.exe.config
+C:\Users\R4-38\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\R4-38\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\R4-38\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel Sekolah.vbproj.ResolveComReference.cache
+C:\Users\R4-38\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel Sekolah.exe
+C:\Users\R4-38\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel Sekolah.xml
+C:\Users\R4-38\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel Sekolah.pdb
+C:\Users\R4-38\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.exe
+C:\Users\R4-38\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.pdb
+C:\Users\R4-38\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.xml
+C:\Users\R4-38\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\bin\Debug\Interop.WMPLib.dll
+C:\Users\R4-38\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\R4-38\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.Main.resources
+C:\Users\R4-38\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.Resources.resources
+C:\Users\R4-38\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel Sekolah.vbproj.GenerateResource.Cache
+C:\Users\R4-38\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.HariBiasa.resources
+C:\Users\R4-38\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.MenuAwal.resources
+C:\Users\R4-38\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.editdata.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.exe.config
+C:\Users\User\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel Sekolah.vbproj.ResolveComReference.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel Sekolah.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel Sekolah.xml
+C:\Users\User\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel Sekolah.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.xml
+C:\Users\User\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.editdata.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.Ujian1dan2.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.Ujian3.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.HariBiasa.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.Main.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.MenuAwal.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.Resources.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel Sekolah.vbproj.GenerateResource.Cache
+C:\Users\R4-38\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.Ujian.resources
+C:\Users\R4-38\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.carapemakaian.resources
+C:\Users\KELOMPOK 4\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.carapemakaian.resources
+C:\Users\KELOMPOK 4\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.editdata.resources
+C:\Users\KELOMPOK 4\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.Ujian.resources
+C:\Users\KELOMPOK 4\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.HariBiasa.resources
+C:\Users\KELOMPOK 4\Documents\Visual Studio 2010\Projects\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.MenuAwal.resources
+C:\Users\SAPRA2\Documents\Visual Studio 2010\Projects1\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.exe.config
+C:\Users\SAPRA2\Documents\Visual Studio 2010\Projects1\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\SAPRA2\Documents\Visual Studio 2010\Projects1\Bel Sekolah\Bel Sekolah\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\SAPRA2\Documents\Visual Studio 2010\Projects1\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel Sekolah.vbproj.ResolveComReference.cache
+C:\Users\SAPRA2\Documents\Visual Studio 2010\Projects1\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel Sekolah.exe
+C:\Users\SAPRA2\Documents\Visual Studio 2010\Projects1\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel Sekolah.xml
+C:\Users\SAPRA2\Documents\Visual Studio 2010\Projects1\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel Sekolah.pdb
+C:\Users\SAPRA2\Documents\Visual Studio 2010\Projects1\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.exe
+C:\Users\SAPRA2\Documents\Visual Studio 2010\Projects1\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.pdb
+C:\Users\SAPRA2\Documents\Visual Studio 2010\Projects1\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.xml
+C:\Users\SAPRA2\Documents\Visual Studio 2010\Projects1\Bel Sekolah\Bel Sekolah\bin\Debug\Interop.WMPLib.dll
+C:\Users\SAPRA2\Documents\Visual Studio 2010\Projects1\Bel Sekolah\Bel Sekolah\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\SAPRA2\Documents\Visual Studio 2010\Projects1\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.carapemakaian.resources
+C:\Users\SAPRA2\Documents\Visual Studio 2010\Projects1\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.editdata.resources
+C:\Users\SAPRA2\Documents\Visual Studio 2010\Projects1\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.Ujian.resources
+C:\Users\SAPRA2\Documents\Visual Studio 2010\Projects1\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.HariBiasa.resources
+C:\Users\SAPRA2\Documents\Visual Studio 2010\Projects1\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.Main.resources
+C:\Users\SAPRA2\Documents\Visual Studio 2010\Projects1\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.MenuAwal.resources
+C:\Users\SAPRA2\Documents\Visual Studio 2010\Projects1\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.Resources.resources
+C:\Users\SAPRA2\Documents\Visual Studio 2010\Projects1\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel Sekolah.vbproj.GenerateResource.Cache
+C:\Users\SAPRA2\Desktop\Bel Sapra2\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.exe.config
+C:\Users\SAPRA2\Desktop\Bel Sapra2\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\SAPRA2\Desktop\Bel Sapra2\Bel Sekolah\Bel Sekolah\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\SAPRA2\Desktop\Bel Sapra2\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel Sekolah.vbproj.ResolveComReference.cache
+C:\Users\SAPRA2\Desktop\Bel Sapra2\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel Sekolah.exe
+C:\Users\SAPRA2\Desktop\Bel Sapra2\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel Sekolah.xml
+C:\Users\SAPRA2\Desktop\Bel Sapra2\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel Sekolah.pdb
+C:\Users\SAPRA2\Desktop\Bel Sapra2\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.exe
+C:\Users\SAPRA2\Desktop\Bel Sapra2\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.pdb
+C:\Users\SAPRA2\Desktop\Bel Sapra2\Bel Sekolah\Bel Sekolah\bin\Debug\Bel Sekolah.xml
+C:\Users\SAPRA2\Desktop\Bel Sapra2\Bel Sekolah\Bel Sekolah\bin\Debug\Interop.WMPLib.dll
+C:\Users\SAPRA2\Desktop\Bel Sapra2\Bel Sekolah\Bel Sekolah\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\SAPRA2\Desktop\Bel Sapra2\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.carapemakaian.resources
+C:\Users\SAPRA2\Desktop\Bel Sapra2\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.editdata.resources
+C:\Users\SAPRA2\Desktop\Bel Sapra2\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.Ujian.resources
+C:\Users\SAPRA2\Desktop\Bel Sapra2\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.HariBiasa.resources
+C:\Users\SAPRA2\Desktop\Bel Sapra2\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.Main.resources
+C:\Users\SAPRA2\Desktop\Bel Sapra2\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.MenuAwal.resources
+C:\Users\SAPRA2\Desktop\Bel Sapra2\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel_Sekolah.Resources.resources
+C:\Users\SAPRA2\Desktop\Bel Sapra2\Bel Sekolah\Bel Sekolah\obj\x86\Debug\Bel Sekolah.vbproj.GenerateResource.Cache
